@@ -1,88 +1,73 @@
-# AI-Generated-Ghibli-Style-Image-Trend-Analysis-2025-
-Ghibli Trend 2025 is a data analysis project focused on studying trends, popularity patterns, and digital engagement related to Studio Ghibli content in 2025. The project uses exploratory data analysis techniques to uncover insights and visualize emerging patterns in audience interest.
+# Ghibli Trend 2025 – Data Analysis Project (Google Colab)
 
-Ghibli Trend 2025 is a data analysis project focused on studying trends, popularity patterns, and digital engagement related to Studio Ghibli content in 2025. The project uses exploratory data analysis techniques to uncover insights and visualize emerging patterns in audience interest.
+## Project Overview
+Ghibli Trend 2025 is a data analysis project developed using **Google Colab** to explore trends, popularity patterns, and audience engagement related to Studio Ghibli content in 2025. The project applies exploratory data analysis (EDA) techniques and visualizations to extract meaningful insights from data.
 
-This project demonstrates practical skills in data analysis, visualization, and reporting, making it suitable for academic evaluation and portfolio presentation.
+This project is designed for academic evaluation and also serves as a portfolio-ready GitHub project.
 
-Objectives
+---
 
-Analyze trends related to Ghibli content in 2025
+## Objectives
+- Analyze Ghibli-related trends for the year 2025  
+- Identify patterns in popularity and audience engagement  
+- Perform exploratory data analysis using Python  
+- Visualize insights in a clear and structured format  
 
-Identify patterns in popularity and audience behavior
+---
 
-Apply data analysis techniques to real-world themed data
+## Technologies & Tools Used
+- Python  
+- Google Colab  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
 
-Present insights in a clear, structured, and visual format
+---
 
-Technologies & Tools Used
-
-Python
-
-Google Colab
-
-Pandas – data manipulation
-
-NumPy – numerical computations
-
-Matplotlib / Seaborn – data visualization
-
-Google Colab (development environment)
-
-Project Structure
+## Project Structure
 ghibli-trend-2025/
 │── README.md
 │── Ghibli Trend 2025.pdf
 │── analysis.ipynb
 
-Key Features
+---
 
-Clean and structured exploratory data analysis
+## How to Run the Project (Google Colab)
+1. Open **Google Colab**  
+2. Upload the file `analysis.ipynb`  
+   *(or open it directly from GitHub using Colab)*  
+3. Run all cells sequentially to reproduce the analysis  
 
-Visual representations of trend patterns
+---
 
-Well-documented notebook for easy understanding
+## Key Features
+- Clean and structured exploratory data analysis  
+- Effective visualizations for trend interpretation  
+- Easy-to-follow notebook created in Google Colab  
+- Detailed project documentation in PDF format  
 
-Professional project report in PDF format
+---
 
-How to Run the Project
+## Project Report
+The complete project analysis and findings are available in:
+- **Ghibli Trend 2025.pdf**
 
-Clone the repository:
+---
 
-git clone https://github.com/your-username/ghibli-trend-2025.git
+## Author
+**Aditi Gupta**  
+B.Tech Student  
+Aspiring Data Analyst / AI Engineer  
 
+---
 
-Open the Jupyter Notebook:
+## Use Case
+- Academic mini project  
+- GitHub portfolio project  
+- Resume and internship applications  
 
-jupyter notebook analysis.ipynb
+---
 
-
-(or upload the notebook to Google Colab)
-
-Run all cells to reproduce the analysis.
-
-Project Report
-
-The detailed analysis and observations are documented in:
-
-Ghibli Trend 2025.pdf
-
-This report summarizes the methodology, visual findings, and conclusions.
-
-Author
-
-Aditi Gupta
-B.Tech Student
-Interested in Data Analysis, AI, and Software Development
-
-Use Case
-
-Academic mini project
-
-Portfolio project for GitHub
-
-Resume and internship applications
-
-⭐ Acknowledgment
-
-This project is created for learning and academic purposes, focusing on improving practical data analysis and documentation skills.
+## Acknowledgment
+This project was created for educational purposes to enhance practical skills in data analysis, visualization, and Google Colab workflows.
